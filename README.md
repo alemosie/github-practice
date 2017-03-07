@@ -30,6 +30,9 @@ When you navigate to a GitHub repository, you're looking at code that is stored 
 
 Hey, you should define push!!!
 
+## How to Remove a Repository on Local Machine
+rm -rf <repository>
+
 ## Interacting with Git & GitHub
 
 ![alt text](https://imgs.xkcd.com/comics/git.png "We're all in this boat together" )
