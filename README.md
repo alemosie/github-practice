@@ -13,7 +13,7 @@ Whenever you get your program working properly, it's important to save that vers
 
 ### What is GitHub, anyway?
 
-As tech savvy programmers, you're probably familiar with Google Docs. Google Docs is a great way to store documents online and collaborate with other people on a project. It's useful for text documents, Excel spreadsheets, and Powerpoint presentations, but unfortunately for us, they don’t have a great way to store code. **GitHub is the Google Docs of code.** There is a ton you can do with GitHub, but in this lesson we're just going to go over the basics. 
+As tech savvy programmers, you're probably familiar with Google Docs. Google Docs is a great way to store documents online and collaborate with other people on a project. It's useful for text documents, Excel spreadsheets, and Powerpoint presentations, but unfortunately for us, they don’t have a great way to store code. **GitHub is the Google Docs of code.** There is a ton you can do with GitHub, but in this lesson we're just going to go over the basics.
 
 ### Definitions
 
@@ -23,11 +23,12 @@ A repository (also called a "repo") is like a project's folder that holds all th
 
 #### Fork
 
-One of the basic GitHub actions that you'll take as you work on projects with other people is "forking a repository." Forking is basically like photocopying a worksheet so that you have your own copy to work on (and so that the original copy stays intact). It's copying work from another person’s GitHub account and putting it in your GitHub account. 
+One of the basic GitHub actions that you'll take as you work on projects with other people is "forking a repository." Forking is basically like photocopying a worksheet so that you have your own copy to work on (and so that the original copy stays intact). It's copying work from another person’s GitHub account and putting it in your GitHub account.
 
 #### Clone
 When you navigate to a GitHub repository, you're looking at code that is stored on GitHub.com. You can't actually edit any of the text yet. To be able to make changes, you need to have your own copy locally, or on your computer. To do that, you need to "clone the repository," which means grab the code from GitHub.com and put a copy of it on your computer.
 
+Hey, you should define push!!!
 
 ## Interacting with Git & GitHub
 
@@ -66,4 +67,3 @@ You're officially a forking, cloning, GitHub ninja!
 ## Resources
 
 - Check out this [awesome(ly amusing)](http://bloggytoons.com/posts/2013/10/10/git-kitchen-wchef-ramsay) guide to version control and git!
-
